@@ -16,11 +16,17 @@ to attrition to the ones which cause the least attrition.
 
 # Data Model
 
-The Data model after the normalization process was done:
+The Data model after the normalization process was done using Oracle SQL Modeler:
 
 ![alt text](https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Data%20Model.jpg)
 
 # Database Schema:
 
+The Database schema in Oracle SQL Developer:
+
 ![alt text](https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Database%20Schema.jpg)
+
+# Insert Data:
+
+A sample screenshot of an insert statement into the history table:
 
