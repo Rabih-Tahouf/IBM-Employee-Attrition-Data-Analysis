@@ -18,4 +18,4 @@ to attrition to the ones which cause the least attrition.
 
 The Data model after normalizations:
 
-![alt text] (https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Data%20Model.jpg)
+![alt text](https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Data%20Model.jpg)
