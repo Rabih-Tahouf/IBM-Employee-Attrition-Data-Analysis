@@ -1,6 +1,10 @@
 # IBM-Employee-Attrition-Data-Analysis
 Design a relational database to analyze IBM's employees' data to determine the factors that make an employee leave. Using this information solutions will be suggested to reduce the employee attrition rate. Oracle Data Modeler and Oracle SQL Developer will be used for this project.
 
+The Dataset is from Kaggle:
+
+###### https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset
+
 # Problem Statement
 
 IBM is suffering from employees’ attritions for multiple reasons, including the distance from home and the average monthly income, costing them their skilled workers.
