@@ -18,26 +18,30 @@ database
 3. Finally, the list of factors is going to be prioritized in terms of which cause the most 
 to attrition to the ones which cause the least attrition. 
 
+# Data Dictionary 
+
+![alt text](https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Data%20Dictionary.jpg)
+
 # Data Model
 
 The Data model after the normalization process was done using Oracle SQL Modeler:
 
 ![alt text](https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Data%20Model.jpg)
 
-# Database Schema:
+# Database Schema
 
 The Database schema in Oracle SQL Developer:
 
 ![alt text](https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Database%20Schema.jpg)
 
-# Insert Data:
+# Insert Data
 
 A sample screenshot of an insert statement into the history table:
 
 ![alt text](https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Inserting%20Data.jpg)
 
 
-# Data Analysis and Visualization:
+# Data Analysis and Visualization
 
 Data analysis was done on the data using SQL. Then visualizations were done on the queried data. A sample is shown below:
 
