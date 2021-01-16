@@ -22,5 +22,5 @@ The Data model after the normalization process was done:
 
 # Database Schema:
 
-![alt text](https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Database%20Creation%20and%20Loading.jpg)
+![alt text](https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Database%20Schema.jpg)
 
