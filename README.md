@@ -30,3 +30,8 @@ The Database schema in Oracle SQL Developer:
 
 A sample screenshot of an insert statement into the history table:
 
+![alt text](https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Inserting%20Data.jpg)
+
+
+# Data Analysis and Visualization:
+
