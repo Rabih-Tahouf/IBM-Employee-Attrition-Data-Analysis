@@ -35,3 +35,13 @@ A sample screenshot of an insert statement into the history table:
 
 # Data Analysis and Visualization:
 
+Data analysis was done on the data using SQL. Then visualizations were done on the queried data. A sample is shown below:
+
+![alt text](https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Sample%20data%20visualization.jpg)
+
+From the visualization we can observe that The percentage of attrition is highest amongst sales representatives and lowest amongst managers, manufacturing directors, and healthcare representatives.
+
+Problem: 40% of Sales representatives leave thier job.
+Potential Solution: Incentivize sales representatives to stay with better work-life balance, and better pay. 
+
+The other visualizations and solutions can be viewed in the report uploaded to this repository. 
