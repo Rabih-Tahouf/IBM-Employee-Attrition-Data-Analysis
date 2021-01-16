@@ -1,5 +1,5 @@
 # IBM-Employee-Attrition-Data-Analysis
-Design a relational database to analyze IBM's employees' data to determine the factors that make an employee leave. Using this information solutions will be suggested to reduce the employee attrition rate.
+Design a relational database to analyze IBM's employees' data to determine the factors that make an employee leave. Using this information solutions will be suggested to reduce the employee attrition rate. Oracle Data Modeler and Oracle SQL Developer will be used for this project.
 
 # Problem Statement
 
@@ -16,6 +16,11 @@ to attrition to the ones which cause the least attrition.
 
 # Data Model
 
-The Data model after normalizations:
+The Data model after the normalization process was done:
 
 ![alt text](https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Data%20Model.jpg)
+
+# Database Schema:
+
+![alt text](https://github.com/Rabih-Tahouf/IBM-Employee-Attrition-Data-Analysis/blob/main/images/Database%20Creation%20and%20Loading.jpg)
+
